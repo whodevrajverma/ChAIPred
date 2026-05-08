@@ -14,7 +14,7 @@ Sharma, N., Patiyal, S., Dhall, A., Devi, N. L., & Raghava, G. P. S. (2021).
 
 [https://doi.org/10.1016/j.compbiomed.2021.104746](https://doi.org/10.1016/j.compbiomed.2021.104746) 
 
-This dataset can also be found on Zenodo at 
+This dataset can also be found on Zenodo at https://doi.org/10.5281/zenodo.20085750
 
 
 ## About this Work
